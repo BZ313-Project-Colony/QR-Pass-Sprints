@@ -1,2 +1,2 @@
 # QR-Pass-Sprints
-![Logo](./qr_pass_sprints.jpg)
+![Logo](./qr_pass_sprints.png)
